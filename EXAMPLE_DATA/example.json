@@ -1,0 +1,142 @@
+[
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Trainspotting.jpg",
+        "Author": "Irvine Welsh",
+        "Genre": "Drama, Addiction, Raw",
+        "ID": "B001",
+        "Language": "English",
+        "Pages": 344,
+        "Publisher": "Secker & Warburg",
+        "Style": "Novel",
+        "Title": "Trainspotting",
+        "Type": "Book",
+        "Year": "1993"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Guida Intergalattica Per Autostoppisti.jpeg",
+        "Author": "Douglas Adams",
+        "Genre": "Science-Fiction, Humor",
+        "ID": "B002",
+        "Language": "Italian",
+        "Pages": 174,
+        "Publisher": "Arnoldo Mondadori Editore",
+        "Style": "Novel",
+        "Title": "Guida Intergalattica Per Autostoppisti",
+        "Type": "Book",
+        "Year": "1980"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Dragon Ball Super Vol.4.jpg",
+        "Author": "Akira Toriyama",
+        "Genre": "Fantasy, Fighting",
+        "ID": "B003",
+        "Language": "Japanese",
+        "Pages": 200,
+        "Publisher": "ShonenJump",
+        "Style": "Manga",
+        "Title": "Dragon Ball Super Vol.4",
+        "Type": "Book",
+        "Year": "2019"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/2 Fast 2 Furious.jpg",
+        "Cast": [
+            "Paul  Walker",
+            "Tyrese Gibson",
+            "Eva Mendes",
+            "Cole Houser",
+            "Chris \"Ludacris\" Bridges"
+        ],
+        "Director": "John Singleton",
+        "Duration": 103,
+        "Genre": "Action, Car Culture",
+        "ID": "M001",
+        "Language": "Italian",
+        "Publisher": "Universal Pictures",
+        "Title": "2 Fast 2 Furious",
+        "Type": "Movie",
+        "Year": "2003"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Training Day.jpg",
+        "Cast": [
+            "Denzel Washington",
+            "Ethan Hawke",
+            "Scott Glenn",
+            "Cliff Curtis"
+        ],
+        "Director": "Antoine Fuqua",
+        "Duration": 122,
+        "Genre": "Action, Thriller, Drama",
+        "ID": "M002",
+        "Language": "English",
+        "Publisher": "Warner Bros. Pictures",
+        "Title": "Training Day",
+        "Type": "Movie",
+        "Year": "2001"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Le Fabuleux Destin D'Amélie Poulain.jpg",
+        "Cast": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus",
+            "Lorella Cravotta",
+            "Serge Merlin"
+        ],
+        "Director": "Jean-Pierre Jeunet",
+        "Duration": 123,
+        "Genre": "Romance, Comedy",
+        "ID": "M003",
+        "Language": "French",
+        "Publisher": "UGC Fox Distribution",
+        "Title": "Le Fabuleux Destin d'Amélie Poulain",
+        "Type": "Movie",
+        "Year": "2001"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Need For Speed Underground 2.jpg",
+        "Developer": "EA Black Box", 
+        "Engine": "EAGL 3.0",
+        "Genre": "Racing",
+        "ID": "G001",
+        "Language": "German",
+        "Pegi": "12+",
+        "Platform": "PlayStation 2",
+        "Players": 2,
+        "Publisher": "EA",
+        "Title": "Need For Speed Underground 2",
+        "Type": "Game",
+        "Year": "2004"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Grand Theft Auto San Andreas.jpeg",
+        "Developer": "Rockstar North",
+        "Engine": "RenderWare Engine",
+        "Genre": "Crime,Action, Open World",
+        "ID": "G002",
+        "Language": "English",
+        "Pegi": "18+",
+        "Platform": "PC",
+        "Players": 2,
+        "Publisher": "Rockstar",
+        "Title": "Grand Theft Auto San Andreas",
+        "Type": "Game",
+        "Year": "2004"
+    },
+    {
+        "ArtworkPath": "./EXAMPLE_DATA/Pro Evolution Soccer 6.jpg",
+        "Developer": "Konami Computer Entertainment Tokyo",
+        "Engine": "PES Engine",
+        "Genre": "Football",
+        "ID": "G003",
+        "Language": "Italian",
+        "Pegi": "3+",
+        "Platform": "PlayStation 2",
+        "Players": 4,
+        "Publisher": "Konami",
+        "Title": "Pro Evolution Soccer 6",
+        "Type": "Game",
+        "Year": "2006"
+    }
+]
